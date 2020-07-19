@@ -1,16 +1,17 @@
 ### Hi there 👋
+### Rocking Github
 
 <!--
 **hotheadhacker/hotheadhacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on whois-api
+- 🌱 I’m currently learning GraphQL
+- 👯 I’m looking to collaborate on any meaningful open source project
+- 🤔 I’m looking for help with python-.mobi converter/parser
+- 💬 Ask me about "How to code on 2G in Kashmir"
+- 📫 How to reach me: 'salmanually' yes google it 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: "Every Byte You Spend on 2G = Tongue bite"
+
