@@ -4,7 +4,7 @@
 <!--
 **hotheadhacker/hotheadhacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
+My current mood a.k.a status:
 
 - 🔭 I’m currently working on whois-api
 - 🌱 I’m currently learning GraphQL
