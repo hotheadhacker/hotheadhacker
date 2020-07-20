@@ -6,7 +6,7 @@
 -->
 My current mood a.k.a status:
 
-- 🔭 I’m currently working on [whois-api](https://github.com/hotheadhacker/whois-api)
+- 🔭 I’m currently working on [whois-api](https://github.com/hotheadhacker/whois-api) & [whois-api-frontend](https://github.com/hotheadhacker/whois-api-frontend)
 - 🌱 I’m currently learning GraphQL
 - 👯 I’m looking to collaborate on any meaningful open source project
 - 🤔 I’m looking for help with python-.mobi converter/parser
