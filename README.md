@@ -14,6 +14,6 @@ My current mood a.k.a status:
 - 📫 How to reach me: 'salmanually' yes google it 
 - 😄 Pronouns: hhh
 - ⚡ Fun fact: "Every Byte You Spend on 2G = Tongue bite"
-** Like My Work? Buy me a coffee on **
+## Like My Work? Buy me a coffee on 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F233BNX)
 
