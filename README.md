@@ -13,15 +13,15 @@
 
 - 🤝 I’m looking for help with **I’m looking for help with python-.mobi converter/parser**
 
-- 👨‍💻 All of my projects are available at [https://portfolio.isalman.xyz](portfolio.isalman.xyz)
+- 👨‍💻 All of my projects are available at [portfolio.isalman.xyz](https://portfolio.isalman.xyz)
 
-- 📝 I regularly write articles on [https://blog.isalman.xyz](blog.isalman.xyz)
+- 📝 I regularly write articles on [blog.isalman.xyz](https://blog.isalman.xyz)
 
 - 💬 Ask me about **python, react, javascript, php, c++, fastAPI**
 
 - 📫 How to reach me **me@isalman.xyz**
 
-- 📄 Know about my experiences [https://profile.isalman.xyz](profile.isalman.xyz)
+- 📄 Know about my experiences [profile.isalman.xyz](https://profile.isalman.xyz)
 
 - ⚡ Fun fact **Almost any powered with electricity needs to be coded. Can you imagine?!**
 
