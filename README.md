@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/salmanually" target="blank"><img src="https://img.shields.io/twitter/follow/salmanually?logo=twitter&style=for-the-badge" alt="salmanually" /></a> </p>
 
-- 🔭 I’m currently working on [whois-aoi](https://github.com/hotheadhacker/whois-api)
+- 🔭 I’m currently working on [whois-api](https://github.com/hotheadhacker/whois-api)
 
 - 🌱 I’m currently learning **ML, graphQL**
 
