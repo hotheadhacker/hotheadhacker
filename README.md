@@ -19,9 +19,9 @@
 
 - 💬 Ask me about **python, react, javascript, php, c++, fastAPI**
 
-- 📫 How to reach me **me@isalman.xyz**
+- 📫 How to reach me **contact@isalman.dev**
 
-- 📄 Know about my experiences [profile.isalman.xyz](https://profile.isalman.xyz)
+- 📄 Know about my experiences [profile.isalman.dev](https://profile.isalman.dev)
 
 - ⚡ Fun fact **Almost any powered with electricity needs to be coded. Can you imagine?!**
 
