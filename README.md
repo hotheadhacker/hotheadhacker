@@ -5,11 +5,11 @@
 - contact@isalman.dev
 - www.isalman.dev
 
-#### My options:
+#### My opinions:
 - https://blog.isalman.dev
 
 #### Current OSS I'm working on:
-- will update soon...
+- [hotheadhacker/nodejs-tools](https://github.com/hotheadhacker/nodejs-tools) : Let's develop nodejs tools together!
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/salmanqureshi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="salmanqureshi" /></a></p><br><br>
