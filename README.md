@@ -10,6 +10,7 @@
 
 #### Current OSS I'm working on:
 - [hotheadhacker/nodejs-express-mysql2-mvc-boilerplate](https://github.com/hotheadhacker/nodejs-express-mysql2-mvc-boilerplate) : A MVC project structure for nodejs, express and mysql (v2) with sql query-builder template/boilerplate.
+- [hotheadhacker/next-markdown](https://github.com/hotheadhacker/next-markdown): An online markdown editor/previewer written in TypeScript using next.js
 - [hotheadhacker/nodejs-tools](https://github.com/hotheadhacker/nodejs-tools) : Let's develop nodejs tools together!
 
 <h3 align="left">Support:</h3> 
