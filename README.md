@@ -4,6 +4,7 @@
 #### Best way to reach me:
 - contact@isalman.dev
 - www.isalman.dev
+- <a rel="me" href="https://infosec.exchange/@hotheadhacker">Mastodon</a>
 
 #### My opinions:
 - https://blog.isalman.dev
