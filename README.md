@@ -32,7 +32,7 @@ npm i -g @cosmicstack/mercury-agent
 - 🐳 **[awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker)** · ⭐ 4.1k — Curated self-hosted apps you can run with Docker
 - 🧩 **[mercury-agent-skills](https://github.com/cosmicstack-labs/mercury-agent-skills)** · ⭐ 480 — Reusable skills for Mercury, OpenClaw & Hermes agents
 - 🎞️ **[lazy-frames](https://github.com/cosmicstack-labs/lazy-frames)** · ⭐ 164 — Agentic, fully local video generation
-- ▶️ **[youtube-player](https://github.com/hotheadhacker/youtube-player)** · ⭐ 778 — Minimal YouTube player
+- ▶️ **[youtube-player](https://github.com/hotheadhacker/youtube-player)** · ⭐ 779 — Minimal YouTube player
 <!-- featured ends -->
 
 ### 📰 The brief
@@ -61,7 +61,7 @@ npm i -g @cosmicstack/mercury-agent
 </td></tr></table>
 
 <!-- stats starts -->
-⭐ **21.7k** stars across **62** public repos · 👥 **696** followers · 🕒 updated 2026-10-14 15:07 UTC
+⭐ **21.7k** stars across **62** public repos · 👥 **696** followers · 🕒 updated 2026-10-14 19:21 UTC
 <!-- stats ends -->
 
 ---
