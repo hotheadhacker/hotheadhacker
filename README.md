@@ -41,9 +41,9 @@ npm i -g @cosmicstack/mercury-agent
 
 #### 🚀 Latest releases
 <!-- releases starts -->
+[mercury-agent optimus-v0.4.9](https://github.com/cosmicstack-labs/mercury-agent/releases/tag/optimus-v0.4.9) — 2026-10-26<br/>
 [mercury-agent v1.4.2](https://github.com/cosmicstack-labs/mercury-agent/releases/tag/v1.4.2) — 2026-10-24<br/>
-[mercury-agent v1.4.1](https://github.com/cosmicstack-labs/mercury-agent/releases/tag/v1.4.1) — 2026-10-24<br/>
-[mercury-agent v1.4.0](https://github.com/cosmicstack-labs/mercury-agent/releases/tag/v1.4.0) — 2026-10-23
+[mercury-agent v1.4.1](https://github.com/cosmicstack-labs/mercury-agent/releases/tag/v1.4.1) — 2026-10-24
 <!-- releases ends -->
 
 </td><td valign="top" width="50%">
@@ -61,7 +61,7 @@ npm i -g @cosmicstack/mercury-agent
 </td></tr></table>
 
 <!-- stats starts -->
-⭐ **21.9k** stars across **61** public repos · 👥 **701** followers · 🕒 updated 2026-10-26 06:10 UTC
+⭐ **21.9k** stars across **61** public repos · 👥 **703** followers · 🕒 updated 2026-10-26 12:57 UTC
 <!-- stats ends -->
 
 ---
