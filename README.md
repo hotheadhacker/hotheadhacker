@@ -30,7 +30,7 @@ npm i -g @cosmicstack/mercury-agent
 - 🙅 **[no-as-a-service](https://github.com/hotheadhacker/no-as-a-service)** · ⭐ 8k — An API that returns a random, realistic "no"
 - 🎬 **[seedbox-lite](https://github.com/hotheadhacker/seedbox-lite)** · ⭐ 4.5k — Lightweight torrent media center
 - 🐳 **[awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker)** · ⭐ 4.1k — Curated self-hosted apps you can run with Docker
-- 🧩 **[mercury-agent-skills](https://github.com/cosmicstack-labs/mercury-agent-skills)** · ⭐ 485 — Reusable skills for Mercury, OpenClaw & Hermes agents
+- 🧩 **[mercury-agent-skills](https://github.com/cosmicstack-labs/mercury-agent-skills)** · ⭐ 486 — Reusable skills for Mercury, OpenClaw & Hermes agents
 - 🎞️ **[lazy-frames](https://github.com/cosmicstack-labs/lazy-frames)** · ⭐ 170 — Agentic, fully local video generation
 - ▶️ **[youtube-player](https://github.com/hotheadhacker/youtube-player)** · ⭐ 776 — Minimal YouTube player
 <!-- featured ends -->
@@ -50,7 +50,7 @@ npm i -g @cosmicstack/mercury-agent
 
 #### 🔨 Recently shipped to
 <!-- active starts -->
-[mercury-agent](https://github.com/cosmicstack-labs/mercury-agent) — 2026-10-26<br/>
+[mercury-agent](https://github.com/cosmicstack-labs/mercury-agent) — 2026-10-27<br/>
 [awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker) — 2026-10-12<br/>
 [mercury-agent-skills](https://github.com/cosmicstack-labs/mercury-agent-skills) — 2026-08-25<br/>
 [lazy-frames](https://github.com/cosmicstack-labs/lazy-frames) — 2026-08-19<br/>
@@ -61,7 +61,7 @@ npm i -g @cosmicstack/mercury-agent
 </td></tr></table>
 
 <!-- stats starts -->
-⭐ **21.9k** stars across **61** public repos · 👥 **704** followers · 🕒 updated 2026-10-27 02:03 UTC
+⭐ **21.9k** stars across **61** public repos · 👥 **704** followers · 🕒 updated 2026-10-27 07:49 UTC
 <!-- stats ends -->
 
 ---
