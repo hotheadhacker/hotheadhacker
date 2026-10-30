@@ -61,7 +61,7 @@ npm i -g @cosmicstack/mercury-agent
 </td></tr></table>
 
 <!-- stats starts -->
-⭐ **22k** stars across **61** public repos · 👥 **706** followers · 🕒 updated 2026-10-30 08:37 UTC
+⭐ **22.1k** stars across **61** public repos · 👥 **706** followers · 🕒 updated 2026-10-30 15:55 UTC
 <!-- stats ends -->
 
 ---
