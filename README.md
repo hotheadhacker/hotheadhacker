@@ -50,7 +50,7 @@ npm i -g @cosmicstack/mercury-agent
 
 #### 🔨 Recently shipped to
 <!-- active starts -->
-[mercury-agent](https://github.com/cosmicstack-labs/mercury-agent) — 2026-10-30<br/>
+[mercury-agent](https://github.com/cosmicstack-labs/mercury-agent) — 2026-10-31<br/>
 [awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker) — 2026-10-12<br/>
 [mercury-agent-skills](https://github.com/cosmicstack-labs/mercury-agent-skills) — 2026-08-25<br/>
 [lazy-frames](https://github.com/cosmicstack-labs/lazy-frames) — 2026-08-19<br/>
@@ -61,7 +61,7 @@ npm i -g @cosmicstack/mercury-agent
 </td></tr></table>
 
 <!-- stats starts -->
-⭐ **22.1k** stars across **61** public repos · 👥 **706** followers · 🕒 updated 2026-10-31 00:46 UTC
+⭐ **22.1k** stars across **61** public repos · 👥 **706** followers · 🕒 updated 2026-10-31 06:58 UTC
 <!-- stats ends -->
 
 ---
