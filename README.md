@@ -30,9 +30,9 @@ npm i -g @cosmicstack/mercury-agent
 - 🙅 **[no-as-a-service](https://github.com/hotheadhacker/no-as-a-service)** · ⭐ 8k — An API that returns a random, realistic "no"
 - 🎬 **[seedbox-lite](https://github.com/hotheadhacker/seedbox-lite)** · ⭐ 4.5k — Lightweight torrent media center
 - 🐳 **[awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker)** · ⭐ 4.1k — Curated self-hosted apps you can run with Docker
-- 🧩 **[mercury-agent-skills](https://github.com/cosmicstack-labs/mercury-agent-skills)** · ⭐ 487 — Reusable skills for Mercury, OpenClaw & Hermes agents
+- 🧩 **[mercury-agent-skills](https://github.com/cosmicstack-labs/mercury-agent-skills)** · ⭐ 488 — Reusable skills for Mercury, OpenClaw & Hermes agents
 - 🎞️ **[lazy-frames](https://github.com/cosmicstack-labs/lazy-frames)** · ⭐ 170 — Agentic, fully local video generation
-- ▶️ **[youtube-player](https://github.com/hotheadhacker/youtube-player)** · ⭐ 775 — Minimal YouTube player
+- ▶️ **[youtube-player](https://github.com/hotheadhacker/youtube-player)** · ⭐ 774 — Minimal YouTube player
 <!-- featured ends -->
 
 ### 📰 The brief
@@ -41,9 +41,9 @@ npm i -g @cosmicstack/mercury-agent
 
 #### 🚀 Latest releases
 <!-- releases starts -->
-[mercury-agent mercury-dev-latest](https://github.com/cosmicstack-labs/mercury-agent/releases/tag/mercury-dev-latest) — 2026-11-02<br/>
-[mercury-agent whatsapp-v0.1.2](https://github.com/cosmicstack-labs/mercury-agent/releases/tag/whatsapp-v0.1.2) — 2026-10-30<br/>
-[mercury-agent optimus-v0.4.9](https://github.com/cosmicstack-labs/mercury-agent/releases/tag/optimus-v0.4.9) — 2026-10-26
+[mercury-agent v1.5.1](https://github.com/cosmicstack-labs/mercury-agent/releases/tag/v1.5.1) — 2026-11-03<br/>
+[mercury-agent optimus-v0.5.1](https://github.com/cosmicstack-labs/mercury-agent/releases/tag/optimus-v0.5.1) — 2026-11-03<br/>
+[mercury-agent v1.5.0](https://github.com/cosmicstack-labs/mercury-agent/releases/tag/v1.5.0) — 2026-11-03
 <!-- releases ends -->
 
 </td><td valign="top" width="50%">
@@ -61,7 +61,7 @@ npm i -g @cosmicstack/mercury-agent
 </td></tr></table>
 
 <!-- stats starts -->
-⭐ **22.1k** stars across **61** public repos · 👥 **706** followers · 🕒 updated 2026-11-03 09:30 UTC
+⭐ **22.1k** stars across **61** public repos · 👥 **707** followers · 🕒 updated 2026-11-03 17:50 UTC
 <!-- stats ends -->
 
 ---
