@@ -41,16 +41,16 @@ npm i -g @cosmicstack/mercury-agent
 
 #### 🚀 Latest releases
 <!-- releases starts -->
+[mercury-agent optimus-v0.5.2](https://github.com/cosmicstack-labs/mercury-agent/releases/tag/optimus-v0.5.2) — 2026-11-14<br/>
 [mercury-agent v1.5.2](https://github.com/cosmicstack-labs/mercury-agent/releases/tag/v1.5.2) — 2026-11-12<br/>
-[mercury-agent v1.5.1](https://github.com/cosmicstack-labs/mercury-agent/releases/tag/v1.5.1) — 2026-11-03<br/>
-[mercury-agent v1.5.0](https://github.com/cosmicstack-labs/mercury-agent/releases/tag/v1.5.0) — 2026-11-03
+[mercury-agent v1.5.1](https://github.com/cosmicstack-labs/mercury-agent/releases/tag/v1.5.1) — 2026-11-03
 <!-- releases ends -->
 
 </td><td valign="top" width="50%">
 
 #### 🔨 Recently shipped to
 <!-- active starts -->
-[mercury-agent](https://github.com/cosmicstack-labs/mercury-agent) — 2026-11-13<br/>
+[mercury-agent](https://github.com/cosmicstack-labs/mercury-agent) — 2026-11-14<br/>
 [awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker) — 2026-10-12<br/>
 [mercury-agent-skills](https://github.com/cosmicstack-labs/mercury-agent-skills) — 2026-08-25<br/>
 [lazy-frames](https://github.com/cosmicstack-labs/lazy-frames) — 2026-08-19<br/>
@@ -61,7 +61,7 @@ npm i -g @cosmicstack/mercury-agent
 </td></tr></table>
 
 <!-- stats starts -->
-⭐ **22.3k** stars across **61** public repos · 👥 **712** followers · 🕒 updated 2026-11-14 03:11 UTC
+⭐ **22.3k** stars across **61** public repos · 👥 **712** followers · 🕒 updated 2026-11-14 10:21 UTC
 <!-- stats ends -->
 
 ---
