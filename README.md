@@ -26,11 +26,11 @@ npm i -g @cosmicstack/mercury-agent
 ### ⭐ Start here
 
 <!-- featured starts -->
-- 🪐 **[mercury-agent](https://github.com/cosmicstack-labs/mercury-agent)** · ⭐ 3.9k — Soul-driven AI agent that runs 24/7 from CLI, Telegram & more
+- 🪐 **[mercury-agent](https://github.com/cosmicstack-labs/mercury-agent)** · ⭐ 4k — Soul-driven AI agent that runs 24/7 from CLI, Telegram & more
 - 🙅 **[no-as-a-service](https://github.com/hotheadhacker/no-as-a-service)** · ⭐ 8k — An API that returns a random, realistic "no"
 - 🎬 **[seedbox-lite](https://github.com/hotheadhacker/seedbox-lite)** · ⭐ 4.5k — Lightweight torrent media center
-- 🐳 **[awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker)** · ⭐ 4.1k — Curated self-hosted apps you can run with Docker
-- 🧩 **[mercury-agent-skills](https://github.com/cosmicstack-labs/mercury-agent-skills)** · ⭐ 491 — Reusable skills for Mercury, OpenClaw & Hermes agents
+- 🐳 **[awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker)** · ⭐ 4.2k — Curated self-hosted apps you can run with Docker
+- 🧩 **[mercury-agent-skills](https://github.com/cosmicstack-labs/mercury-agent-skills)** · ⭐ 492 — Reusable skills for Mercury, OpenClaw & Hermes agents
 - 🎞️ **[lazy-frames](https://github.com/cosmicstack-labs/lazy-frames)** · ⭐ 172 — Agentic, fully local video generation
 - ▶️ **[youtube-player](https://github.com/hotheadhacker/youtube-player)** · ⭐ 777 — Minimal YouTube player
 <!-- featured ends -->
@@ -50,7 +50,7 @@ npm i -g @cosmicstack/mercury-agent
 
 #### 🔨 Recently shipped to
 <!-- active starts -->
-[mercury-agent](https://github.com/cosmicstack-labs/mercury-agent) — 2026-11-14<br/>
+[mercury-agent](https://github.com/cosmicstack-labs/mercury-agent) — 2026-11-15<br/>
 [awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker) — 2026-10-12<br/>
 [mercury-agent-skills](https://github.com/cosmicstack-labs/mercury-agent-skills) — 2026-08-25<br/>
 [lazy-frames](https://github.com/cosmicstack-labs/lazy-frames) — 2026-08-19<br/>
@@ -61,7 +61,7 @@ npm i -g @cosmicstack/mercury-agent
 </td></tr></table>
 
 <!-- stats starts -->
-⭐ **22.3k** stars across **61** public repos · 👥 **712** followers · 🕒 updated 2026-11-15 01:53 UTC
+⭐ **22.3k** stars across **61** public repos · 👥 **712** followers · 🕒 updated 2026-11-15 09:21 UTC
 <!-- stats ends -->
 
 ---
