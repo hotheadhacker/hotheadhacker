@@ -26,7 +26,7 @@ npm i -g @cosmicstack/mercury-agent
 ### ⭐ Start here
 
 <!-- featured starts -->
-- 🪐 **[mercury-agent](https://github.com/cosmicstack-labs/mercury-agent)** · ⭐ 4k — Soul-driven AI agent that runs 24/7 from CLI, Telegram & more
+- 🪐 **[mercury-agent](https://github.com/cosmicstack-labs/mercury-agent)** · ⭐ 4.1k — Soul-driven AI agent that runs 24/7 from CLI, Telegram & more
 - 🙅 **[no-as-a-service](https://github.com/hotheadhacker/no-as-a-service)** · ⭐ 8k — An API that returns a random, realistic "no"
 - 🎬 **[seedbox-lite](https://github.com/hotheadhacker/seedbox-lite)** · ⭐ 4.5k — Lightweight torrent media center
 - 🐳 **[awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker)** · ⭐ 4.2k — Curated self-hosted apps you can run with Docker
@@ -61,7 +61,7 @@ npm i -g @cosmicstack/mercury-agent
 </td></tr></table>
 
 <!-- stats starts -->
-⭐ **22.4k** stars across **61** public repos · 👥 **713** followers · 🕒 updated 2026-11-20 20:12 UTC
+⭐ **22.4k** stars across **61** public repos · 👥 **713** followers · 🕒 updated 2026-11-21 01:29 UTC
 <!-- stats ends -->
 
 ---
